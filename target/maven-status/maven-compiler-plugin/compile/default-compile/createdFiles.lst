@@ -1,0 +1,9 @@
+com\mobileapp\GeneralStore\testBase\TestBaseSample.class
+com\mobileapp\GeneralStore\propertiesReader\PropertyReader.class
+com\mobileapp\GeneralStore\pageObjectClasses\CheckoutPage.class
+com\mobileapp\GeneralStore\utilities\Utilities.class
+com\mobileapp\GeneralStore\pageObjectClasses\Preferences.class
+com\mobileapp\GeneralStore\propertiesReader\ResourceHelper.class
+com\mobileapp\GeneralStore\utilities\TestData.class
+com\mobileapp\GeneralStore\pageObjectClasses\HomePage.class
+com\mobileapp\GeneralStore\pageObjectClasses\FormPage.class
